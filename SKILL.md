@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-302
-description: "Create XXD Panel 302 raster artwork: a faithful photograph paired with one neo-naive handmade emblem, wobbly contour, flat blocks and risograph error. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-302 or asks for this 民艺新章 style."
+description: "XXD Panel 302｜New Folk Emblem: keeps the photo and condenses its most recognisable subject into one small neo-naive handmade emblem — a wobbly hand-drawn contour, flat colour blocks with gouache and wax-crayon texture, gently exaggerated proportions, two to five warm, bright colours taken from the photo, paper grain and slight risograph misregistration, wide whitespace and a few tiny words or letters in a small hand-printed editorial type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-302 or asks for a neo-naive folk emblem, handmade logo mark or risograph-style symbol from a photo."
 ---
 
 # XXD Panel 302

@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 302｜New Folk Emblem: keeps the photo and condenses its most recognisable subject into one small neo-naive handmade emblem — a wobbly hand-drawn contour, flat colour blocks with gouache and wax-crayon texture, gently exaggerated proportions, two to five warm, bright colours taken from the photo, paper grain and slight risograph misregistration, wide whitespace and a few tiny words or letters in a small hand-printed editorial type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-302 or asks for a neo-naive folk emblem, handmade logo mark or risograph-style symbol from a photo.",
+  "short_description": "民艺新章：把照片主体收成一枚摇晃手绘轮廓、平涂色块的新稚拙小徽章",
+  "zh-CN": {
+    "name": "民艺新章",
+    "tagline": "保留原照片，把主体收成一枚温暖、有点幽默的新稚拙手工徽章。",
+    "look": "照片保持原样，设计部分只留下一眼能想到原物的轮廓和姿态，比例可以夸张，人、房子、动物都变得简单、温暖、带点笨拙的幽默。轮廓是略微摇晃的手绘线，里面是大块平涂，带水粉的覆盖感和蜡笔颗粒，纸纹和轻微套印错位都留着。颜色从照片里挑两到五种，明快但不艳。徽章很小，四周大片留白，旁边可以有几个字母、一个极短的词或小记号，字体小而克制。",
+    "traits": ["新稚拙徽章", "平涂色块", "摇晃轮廓", "丝网误差", "编辑留白"],
+    "good": [
+      "轮廓一眼能认出来的单个主体：一只狗、一座灯塔、一棵树、一把椅子",
+      "带简单姿态或关系的画面：牵狗散步的人、窗台上蜷着的猫、骑车的人",
+      "想做成小店标志、杂志小图、贴纸或印章的日常照片"
+    ],
+    "poor": [
+      "必须保留完整场景或很多细节的照片：整条街景、多人合影、机器内部",
+      "想要完整人物插画或精细肖像的需求",
+      "想要光滑矢量、3D、卡通 IP 形象或商业 Logo 的效果"
+    ]
+  },
+  "en": {
+    "name": "New Folk Emblem",
+    "tagline": "Keeps your photo and condenses the subject into one warm, slightly humorous neo-naive handmade emblem.",
+    "look": "The photo stays as it is. The design keeps only the outline and pose that still bring the original to mind, with freely exaggerated proportions, so people, houses and animals become simple, warm and a little clumsily funny. A slightly wobbly hand-drawn contour holds large flat fills with the opacity of gouache and the grain of wax crayon, and the paper texture and slight misregistration are left in. Two to five colours are picked from the photo, bright but never sugary. The emblem is small and surrounded by whitespace, with perhaps a few letters, one very short word or a small mark set in a small, restrained type.",
+    "traits": ["Neo-naive emblem", "Flat colour blocks", "Wobbly contour", "Risograph misregister", "Editorial whitespace"],
+    "good": [
+      "A single subject with an instantly recognisable outline: a dog, a lighthouse, a tree, a chair",
+      "Simple poses or relationships: someone walking a dog, a cat curled on a windowsill, a cyclist",
+      "Everyday photos you want as a shop mark, a small magazine graphic, a sticker or a stamp"
+    ],
+    "poor": [
+      "Photos whose full scene or fine detail must survive: a whole street, a group photo, the inside of a machine",
+      "Requests for a full figure illustration or a detailed portrait",
+      "Wanting glossy vector, 3D, a cartoon mascot or a corporate logo"
+    ]
+  },
+  "ja": {
+    "name": "民藝ネオ紋章",
+    "tagline": "写真はそのままに、主役を温かく少しユーモラスなネオナイーブの手作り紋章にまとめます。",
+    "look": "写真はそのまま残し、デザイン側には元の姿がすぐ思い浮かぶ輪郭と姿勢だけを残します。比率は大胆に誇張してよく、人も家も動物も、素朴で温かく、どこか不器用な可笑しさのある形になります。少し揺れる手描きの輪郭の中を大きな平塗りで埋め、ガッシュの不透明感とクレヨンの粒子、紙の質感やわずかな版ずれも残します。色は写真から二〜五色を選び、明るくても甘すぎません。紋章は小さく、周りに広い余白をとり、数文字のアルファベットやごく短い語、小さな記号を控えめな書体で添えることがあります。",
+    "traits": ["ネオナイーブ紋章", "平塗りの色面", "揺れる輪郭", "リソグラフの版ずれ", "編集的な余白"],
+    "good": [
+      "輪郭ですぐわかる主役がひとつの写真：犬、灯台、一本の木、椅子",
+      "シンプルな姿勢や関係のある場面：犬を散歩させる人、窓辺で丸くなる猫、自転車に乗る人",
+      "お店のマーク、雑誌の小さなカット、ステッカー、スタンプにしたい日常写真"
+    ],
+    "poor": [
+      "場面全体や細部を残したい写真：通り全体、集合写真、機械の内部",
+      "人物の全身イラストや細密な肖像を求める場合",
+      "なめらかなベクター、3D、キャラクター、企業ロゴのような仕上がりを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "민예 뉴 엠블럼",
+    "tagline": "원래 사진은 그대로 두고, 주인공을 따뜻하고 살짝 유머러스한 네오 나이브 수제 엠블럼으로 압축합니다.",
+    "look": "사진은 그대로 두고, 디자인 쪽에는 원래 모습이 바로 떠오르는 윤곽과 자세만 남깁니다. 비율은 과감하게 과장해도 되어 사람도 집도 동물도 단순하고 따뜻하며 어딘가 서툰 재미가 있는 모양이 됩니다. 살짝 흔들리는 손그림 윤곽 안을 넓은 평면 색으로 채우고, 과슈의 불투명한 느낌과 크레용 입자, 종이 결과 살짝 어긋난 인쇄도 남깁니다. 색은 사진에서 두세 가지에서 다섯 가지를 골라 밝지만 달지 않게 씁니다. 엠블럼은 작고 둘레에 여백이 넓으며, 몇 글자의 알파벳이나 아주 짧은 단어, 작은 기호를 절제된 서체로 곁들이기도 합니다.",
+    "traits": ["네오 나이브 엠블럼", "평면 색면", "흔들리는 윤곽", "리소 인쇄 어긋남", "편집 여백"],
+    "good": [
+      "윤곽만으로 바로 알아볼 수 있는 주인공 하나: 강아지, 등대, 나무 한 그루, 의자",
+      "단순한 자세나 관계가 있는 장면: 강아지와 산책하는 사람, 창가에 웅크린 고양이, 자전거 타는 사람",
+      "가게 마크, 잡지 속 작은 그림, 스티커, 도장으로 쓰고 싶은 일상 사진"
+    ],
+    "poor": [
+      "장면 전체나 세부를 살려야 하는 사진: 거리 전경, 단체 사진, 기계 내부",
+      "인물 전신 일러스트나 정밀한 초상을 원하는 경우",
+      "매끈한 벡터, 3D, 캐릭터 IP, 기업 로고 같은 결과를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "شعار شعبي جديد",
+    "tagline": "يحتفظ بصورتك ويختصر عنصرها الرئيسي في شعار يدوي صغير دافئ فيه شيء من الطرافة الساذجة.",
+    "look": "تبقى الصورة كما هي، ولا يحتفظ التصميم إلا بالخطوط الخارجية والوضعية التي تذكّر بالأصل، مع نِسب مبالغ فيها بحرية، فيصبح الإنسان والبيت والحيوان أشكالاً بسيطة دافئة فيها طرافة خرقاء. خط يدوي يرتعش قليلاً يحيط بمساحات لونية مسطحة واسعة بكثافة الغواش وحبيبات أقلام الشمع، مع بقاء ملمس الورق وانزياح طفيف في الطباعة. تُختار من الصورة من لونين إلى خمسة ألوان، زاهية من غير أن تكون حلوة مبتذلة. الشعار صغير تحيط به مساحات فارغة واسعة، وقد تُضاف إليه بضعة أحرف أو كلمة قصيرة جداً أو علامة صغيرة بخط هادئ صغير.",
+    "traits": ["شعار ساذج حديث", "مساحات لونية مسطحة", "خط مرتعش", "انزياح طباعة الريزوغراف", "فراغ تحريري"],
+    "good": [
+      "عنصر واحد يُعرف من شكله الخارجي فوراً: كلب، منارة، شجرة، كرسي",
+      "وضعيات أو علاقات بسيطة: شخص يتمشى مع كلبه، قطة متكوّرة على حافة نافذة، راكب دراجة",
+      "صور يومية تريدها علامةً لمتجر صغير أو رسماً صغيراً لمجلة أو ملصقاً أو ختماً"
+    ],
+    "poor": [
+      "صور يجب أن يبقى فيها المشهد كاملاً أو التفاصيل الدقيقة: شارع كامل، صورة جماعية، أجزاء آلة من الداخل",
+      "طلب رسم كامل لشخص أو بورتريه دقيق",
+      "الرغبة في رسم متجهي لامع أو ثلاثي الأبعاد أو شخصية كرتونية أو شعار تجاري"
+    ]
+  }
+}

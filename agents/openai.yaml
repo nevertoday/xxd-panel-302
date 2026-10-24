@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 302"
-  short_description: "民艺新章：上半保留原照，下半把主体收成一枚新稚拙的手工徽章"
-  default_prompt: "Use $xxd-panel-302 to transform my photograph following the complete canonical source brief."
+  short_description: "民艺新章：把照片主体收成一枚摇晃手绘轮廓、平涂色块的新稚拙小徽章"
+  default_prompt: "Use $xxd-panel-302 to turn my photo into New Folk Emblem artwork."
